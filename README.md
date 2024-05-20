@@ -2,7 +2,7 @@
 # Virtuals Tinder
 ### Here's my attempt at the Junior Fullstack Assessment :)
 
-Link to UML Diagram: 
+Link to UML Diagram: https://drive.google.com/file/d/1tlfM8hXM6S84LNjOKDQSqLxCnyhMSuqq/view?usp=drive_link
 
 ## Requirements
 
